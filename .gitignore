@@ -1,1 +1,22 @@
-file.text
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Node.js
+node_modules/
+
+# Logs / Environment
+*.log
+.env
+
+# Others
+*.db
+*.sqlite
+*.csv
