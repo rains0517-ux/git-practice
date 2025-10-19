@@ -26,3 +26,7 @@ button {
 button:hover {
   background-color: #3cb371;
 }
+p {
+  color: #555;
+  font-style: italic;
+}
